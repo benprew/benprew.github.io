@@ -1,4 +1,3 @@
-https://cooking.nytimes.com/recipes/1019506-crisp-tofu-katsu-with-lemon-tahini-sauce?emc=edit_nn_20180917&nl=morning-briefing&nlid=8232297320180917&te=1
 ---
 title: Crisp Tofu Katsu With Lemon-Tahini Sauce Recipe
 ---
